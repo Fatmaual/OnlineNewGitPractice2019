@@ -1,12 +1,10 @@
 Toyota
 BMW 6
 TESLA
-<<<<<<< HEAD
 Subaru
 Honda Civic
-=======
 Mercedes S500
 Kia Optima
 Lexis
 Honda
->>>>>>> b979c88b8b87b0346aded7d54d9b584c35044376
+
