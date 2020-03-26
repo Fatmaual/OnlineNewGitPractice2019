@@ -1,3 +1,5 @@
 Toyota
 BMW 6
 TESLA
+Subaru
+Honda Civic
