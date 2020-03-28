@@ -2,3 +2,4 @@ mango
 strawberry
 rasberry
 watermelon
+pear
